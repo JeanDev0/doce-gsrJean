@@ -1,8 +1,13 @@
 [project]
 site_name = "Doce GSR 2026.1"
 site_description = "A new project generated from the default template project."
+
 #site_author = "<your name here>"
 #site_url = "https://www.example.com/"
+
+repo_url = "https://github.com/portif/doce-gsr"
+edit_uri = "edit/main/docs/"
+
 copyright = """
 Copyright &copy; 2026 The authors
 """
@@ -42,17 +47,16 @@ language = "pt-BR"
 
 features = [
     "announce.dismiss",
-
-    #"content.action.edit",
-    #"content.action.view",
+    "content.action.edit",
+    "content.action.view",
     "content.code.annotate",
     "content.code.copy",
     "content.code.select",
     "content.footnote.tooltips",
     "content.tabs.link",
     "content.tooltips",
-    "header.autohide",
-    #l"navigation.expand",
+    #"header.autohide",
+    #"navigation.expand",
     "navigation.footer",
     "navigation.indexes",
     "navigation.instant",
