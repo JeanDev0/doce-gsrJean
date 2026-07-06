@@ -4,6 +4,8 @@ icon: lucide/rocket
 
 # Início
 
+Bla bla bla.
+
 Ao escrever documentação para o Zensical, você normalmente terá uma estrutura semelhante a:
 
 ```
