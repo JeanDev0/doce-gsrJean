@@ -13,3 +13,4 @@ Um membro de seu grupo do projeto integrador deve importar este repositório na 
 [^1]: Disponível em <https://gitea.mange.ifrn.edu.br>
 [^2]: Disponível em <https://github.com>
 [^3]: Pressione as teclas <kbd>Ctrl</kbd>+<kbd>L</kbd>
+
