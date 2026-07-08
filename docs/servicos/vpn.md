@@ -2,7 +2,7 @@
 icon: lucide/globe-lock
 ---
 
-# VPN (WireGuard)
+# VPN 
 
 A VPN estabelece uma conexão protegida (um túnel criptografado) entre um dispositivo e uma rede privada, utilizando a infraestrutura da internet pública. 
 
